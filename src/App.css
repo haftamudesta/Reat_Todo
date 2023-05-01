@@ -1,0 +1,10 @@
+.main__app {
+  margin-left: 20%;
+  margin-right: 20%;
+  background: rgb(222, 66, 222);
+}
+
+.todo__header {
+  margin-left: 30%;
+  padding-top: 20px;
+}
