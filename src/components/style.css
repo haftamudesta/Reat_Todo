@@ -1,0 +1,30 @@
+.Todos {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30%;
+}
+
+.edit__delete {
+  display: flex;
+  align-items: center;
+}
+
+.edit {
+  margin-right: 30px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.Todo__Form {
+  margin-left: 30%;
+  padding-bottom: 40px;
+}
+
+.wrapper {
+  background: rgb(103, 62, 137);
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: -40px;
+}

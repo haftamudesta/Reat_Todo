@@ -1,11 +1,12 @@
-import { useState } from "react";
-import "./App.css";
+import './App.css';
+import Todowraper from './components/Todowraper';
 
 function App() {
   return (
-    <>
-      <h1>Todo Application with React</h1>
-    </>
+    <main className="main__app">
+      <h1 className="todo__header">Todo Application with React</h1>
+      <Todowraper />
+    </main>
   );
 }
 
