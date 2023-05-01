@@ -27,7 +27,6 @@
     "arrow-body-style": "off",
     "no-eval": "off",
     "consistent-return": "off",
-    "react/prop-types": "off",
     "no-shadow": "off"
   },
   "ignorePatterns": ["dist/", "build/"]
